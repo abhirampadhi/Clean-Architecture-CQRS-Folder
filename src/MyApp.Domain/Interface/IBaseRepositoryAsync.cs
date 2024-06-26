@@ -1,0 +1,1 @@
+namespace MyApp.Domain.Repositories;    
