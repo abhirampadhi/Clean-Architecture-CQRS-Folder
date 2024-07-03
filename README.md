@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/NilavPatel/dotnet-onion-architecture/main/docs/ddd-banner.png">
 </p>
 
+
 - Onion architecture can solve problem of separation of concern and tightly coupled components from N-layered architecture.
 - All layers are depended on inner layer.
 - The core of the application is the domain layer.
